@@ -8,7 +8,7 @@ public class PlayerController : MonoBehaviour
 {
 
     public SteamVR_Action_Vector2 input;
-    public float speed = 1.5f;
+    public float speed = 1;
     private CharacterController characterController;
 
     private void Start()
